@@ -1,0 +1,32 @@
+{
+  "name": "on-line",
+  "version": "0.1.0",
+  "description": "Check if the internet connection is up",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard \"*.js\"",
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/on-line.git"
+  },
+  "keywords": [
+    "online",
+    "offline",
+    "is-online",
+    "is-offline",
+    "online",
+    "check"
+  ],
+  "author": "iceStone <ice@micua.com> (https://www.micua.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zce/on-line/issues"
+  },
+  "homepage": "https://github.com/zce/on-line#readme",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "standard": "^8.0.0"
+  }
+}
