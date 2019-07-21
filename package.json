@@ -27,6 +27,6 @@
   "homepage": "https://github.com/zce/on-line#readme",
   "devDependencies": {
     "ava": "2.2.0",
-    "standard": "8.6.0"
+    "standard": "13.1.0"
   }
 }
